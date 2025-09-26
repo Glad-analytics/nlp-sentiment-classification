@@ -25,8 +25,8 @@ This project applies **Natural Language Processing (NLP)** techniques to classif
 - `NLP_Sentiment_Analysis.pdf` → Full project report (academic format)
    
 ## 🔗 Quick Links
-- [View Notebook](./NLP_Sentiment_Analysis.ipynb)  
-- [View Report](./NLP_Sentiment_Analysis.pdf)
+- 📓 [Jupyter Notebook](notebooks/NLP_Sentiment_Analysis.ipynb)  
+- 📄 [Project Report (PDF)](reports/NLP_Sentiment_Analysis.pdf)
   
 ## 🚀 How to Run
 1. Clone the repository  
