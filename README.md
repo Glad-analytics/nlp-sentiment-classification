@@ -22,10 +22,16 @@ This project applies **Natural Language Processing (NLP)** techniques to classif
 
 ## 📂 Repository Contents
 - `NLP_Sentiment_Analysis.ipynb` → Jupyter Notebook with full code and visualisations  
-- `NLP_Sentiment_Analysis.pdf` → Full project report (academic format)  
-- `README.md` → Project overview (this file)  
-
+- `NLP_Sentiment_Analysis.pdf` → Full project report (academic format)
+   
+## 🔗 Quick Links
+- [View Notebook](./NLP_Sentiment_Analysis.ipynb)  
+- [View Report](./NLP_Sentiment_Analysis.pdf)
+  
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
    git clone https://github.com/Glad-analytics/nlp-sentiment-classification.git
+2.	Open NLP_Sentiment_Analysis.ipynb in Jupyter Notebook.
+3.	Install dependencies with: 'pip install -r requirements.txt'
+4.	Run the notebook step by step to reproduce preprocessing, model training, and evaluation.
